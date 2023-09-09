@@ -1,6 +1,6 @@
 {
 	"name": "Badol",
-	"version": "0.0.7",
+	"version": "30.0.0",
 	"description": "A simple Facebook Messenger Bot made by Badol And My Brother EMon-BHai .",
 	"main": "badol.js",
 	"scripts": {
